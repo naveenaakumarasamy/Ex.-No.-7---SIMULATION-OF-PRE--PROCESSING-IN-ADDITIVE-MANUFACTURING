@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![Screenshot 2023-05-29 111102](https://github.com/naveenaakumarasamy/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113497406/50388886-c36b-44f5-9280-54384a8a51e6)
 
-### Name:
-### Register Number:
+
+### Name: Naveenaa A.K
+### Register Number: 212222230094
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
